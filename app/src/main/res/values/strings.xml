@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">BMI Calculator</string>
+    <string name="weight">Weight (kg)</string>
+    <string name="height">Height (m)</string>
+    <string name="calculate">Calculate</string>
+    <string name="reset">Reset</string>
+    <string name="lbl_under">Underweight (below 18.5)</string>
+    <string name="lbl_normal">Normal (18.5 to 24.9)</string>
+    <string name="lbl_over">Overweight (24.9 to 29.9)</string>
+    <string name="lbl_obes">Obese (30 and above)</string>
+    <string name="txt_result">Your BMI Result</string>
+    <string name="default_result">0</string>
+    <string name="information">Information</string>
+    <string name="home">Home</string>
+    <string name="record">Record</string>
+    <string name="under">Underweight</string>
+    <string name="normal">Normal</string>
+    <string name="over">Overweight</string>
+    <string name="obes">Obese</string>
+    <string name="na">Not Available</string>
+    <string name="title_item_list">Items</string>
+    <string name="title_item_detail">Item Detail</string>
+    <string name="spinner_title">Select Month</string>
+    <string name="delete_all">Delete All</string>
+</resources>
